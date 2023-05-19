@@ -3,12 +3,16 @@
 ### Hi there 👋, I'm Pedro
 
 Developer who loves codes and gym!
-Used to like do some front-end works, but back-end got my heart <3. <br>
-Graduated at System Development since 2020 and working on leveling up my Lavarel skills more and more. Specially on development of REST APIs.
+Used to like do some front-end works, but back-end really got my heart <3. <br>
+Graduated at System Development since 2020 and working on leveling up my Lavarel skills more and more. Specially on big web systems development.
 
 Skills: 
 * PHP
 * LARAVEL
+* Relational Databases
+* Cloud computing AWS
+* Docker
+* REST API
 * HTML
 * CSS
 * JS
